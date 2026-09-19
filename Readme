@@ -1,0 +1,16 @@
+# CodeAlpha - Image Gallery
+
+A responsive, interactive image gallery built with HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
+
+## Features
+
+- **Responsive Layout:** Grid layout adapting across mobile, tablet, and desktop screens.
+- **Category Filter:** Filter images by categories (Nature, City, Tech).
+- **Lightbox Viewer:** Enlarged image view with Next and Previous navigation controls.
+- **Image Upload:** Local file upload integration to preview custom images in the gallery.
+
+## Tech Stack
+
+- HTML5
+- CSS3 (Flexbox, Grid, Glassmorphism UI)
+- Vanilla JavaScript (DOM Manipulation, Event Delegation)
